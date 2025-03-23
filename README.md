@@ -16,5 +16,6 @@ Scripts to automatically deploy a structure with Nextcloud and MariaDB
     Use the script: MariaDBdatabaseCreation.sh.
     The structure will be fully created and configured with a database.
 ||CHANGE NECESSARY DATA FOR CUSTOMIZATION||
-
-
+···························································································································································
+··Adujnto enlace para el repositorio de Steven Centenos co-creador de esta estructura: https://github.com/scentenod2401/AWS-Nextcloud-y-AWS-CLI/tree/main··
+···························································································································································
